@@ -51,7 +51,7 @@ function noWeakLink() {
         
   .then(function two(res){
       res => {
-        thirdUser = res[2]
+        thirdUser = res[9]
         }})
 }
 
